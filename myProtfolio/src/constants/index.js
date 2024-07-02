@@ -120,7 +120,7 @@ export const experiences = [
     company_name: "Goloka It",
     icon: goloka,
     iconBg: "#fbc3bc",
-    date: "Dec 2023 - june 2023",
+    date: "Dec 2023 - june 2024",
     points: [
       "Developing web applications using React.js  other related technologies.",
       "Experienced in building back-end systems using Spring Boot and Java. Implemented JWT (JSON Web Token) authentication for secure user sessions and Spring Security for comprehensive application security, ensuring role-based access control and protection against common vulnerabilities.",
